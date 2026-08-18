@@ -22,7 +22,7 @@
 - [Key Insights](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-key-insights)
 - [Business Recommendations](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-business-recommendations)
 - [Project Workflow](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-project-workflow)
-- [Folder Structure](#folder-structure)
+- [Folder Structure](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-folder-structure)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Results Summary](#results-summary)
 - [Conclusion](#conclusion)
