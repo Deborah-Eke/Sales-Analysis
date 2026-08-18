@@ -13,7 +13,7 @@
 - [Dashboard Preview](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-dashboard-preview)
 - [Workbook Structure](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-workbook-structure)
 - [Dataset Information](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-dataset-information)
-- [Project Objectives](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#raw-columns)
+- [Project Objectives](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-project-objectives)
 - [Tools & Techniques](#tools--techniques)
 - [Data Preparation Process](#data-preparation-process)
 - [PivotTable Analysis](#pivottable-analysis)
