@@ -24,7 +24,7 @@
 - [Project Workflow](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-project-workflow)
 - [Folder Structure](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-folder-structure)
 - [Skills Demonstrated](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-skills-demonstrated)
-- [Results Summary](#results-summary)
+- [Results Summary](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-results-summary)
 - [Conclusion](#conclusion)
 
 ---
