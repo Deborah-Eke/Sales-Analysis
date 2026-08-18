@@ -10,7 +10,7 @@
 ## 📋 Table of Contents
 
 - [Project Overview](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-project-overview)
-- [Dashboard Preview](#dashboard-preview)
+- [Dashboard Preview](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-dashboard-preview)
 - [Workbook Structure](#workbook-structure)
 - [Dataset Information](#dataset-information)
 - [Project Objectives](#project-objectives)
