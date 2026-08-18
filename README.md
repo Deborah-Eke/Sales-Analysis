@@ -164,7 +164,7 @@ columns — no calculated measures existed. All preparation was
 performed using Excel formulas in the `CLEANED DATA` sheet,
 keeping the original data untouched as a reference layer.
 ### Cleaned Data Sheet
-![Cleaned Data](Cleaned_Data.png)
+![Cleaned Data](Cleaned Data.png)
 
 ### Step 1 — Added the Month column
 
