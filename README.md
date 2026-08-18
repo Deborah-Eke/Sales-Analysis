@@ -163,7 +163,7 @@ The raw `Sales Data` sheet contained only the base transaction
 columns — no calculated measures existed. All preparation was
 performed using Excel formulas in the `CLEANED DATA` sheet,
 keeping the original data untouched as a reference layer.
-### Cleaned Data Sheet
+
 ### Cleaned Data Sheet
 ![Cleaned Data](cleaned_data.png)
 
