@@ -11,7 +11,7 @@
 
 - [Project Overview](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-project-overview)
 - [Dashboard Preview](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-dashboard-preview)
-- [Workbook Structure](#workbook-structure)
+- [Workbook Structure](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-workbook-structure)
 - [Dataset Information](#dataset-information)
 - [Project Objectives](#project-objectives)
 - [Tools & Techniques](#tools--techniques)
