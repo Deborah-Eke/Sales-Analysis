@@ -220,6 +220,8 @@ dataset with calculated measures rather than correcting errors.
 
 Four PivotTables were built in the `PIVOT TABLE` sheet, each
 answering a specific business question.
+### PivotTable screenshot
+![Pivot Table](pivot_table.png)
 
 ### PivotTable 1 — Products by Profit
 
