@@ -16,7 +16,7 @@
 - [Project Objectives](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-project-objectives)
 - [Tools & Techniques](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-tools--techniques)
 - [Data Preparation Process](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-data-preparation-process)
-- [PivotTable Analysis](#pivottable-analysis)
+- [PivotTable Analysis](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-pivottable-analysis)
 - [Dashboard Visuals](#dashboard-visuals)
 - [Key Metrics Summary](#key-metrics-summary)
 - [Key Insights](#key-insights)
