@@ -12,7 +12,7 @@
 - [Project Overview](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-project-overview)
 - [Dashboard Preview](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-dashboard-preview)
 - [Workbook Structure](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-workbook-structure)
-- [Dataset Information](#dataset-information)
+- [Dataset Information](https://github.com/Deborah-Eke/Sales-Analysis/blob/main/README.md#-dataset-information)
 - [Project Objectives](#project-objectives)
 - [Tools & Techniques](#tools--techniques)
 - [Data Preparation Process](#data-preparation-process)
