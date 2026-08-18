@@ -72,7 +72,7 @@ Product Category.
 
 ## 📊 Dashboard Preview
 
-![Sales Performance Dashboard](excel_dashboard.png)
+![Sales Performance Dashboard](excel_dashboard.png.PNG)
 
 ---
 
